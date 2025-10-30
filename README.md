@@ -75,12 +75,5 @@ Face-Direction-Tracker/
 
 ---
 
-## 👨‍💻 Author
-**Your Name Here**  
-📧 Email: your.email@example.com  
-🌐 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 
----
 
-### 🧠 Description for GitHub:
-> A real-time face movement tracker built with OpenCV that detects face position, calculates direction and speed, and displays it with smooth and stable visuals.
